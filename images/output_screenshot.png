@@ -1,0 +1,4 @@
+mkdir images
+git add images/output_screenshot.png
+git commit -mukesh "Added output screenshot"
+git push
